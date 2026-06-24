@@ -1,1 +1,1 @@
-# Public-Script
+loadstring(game:HttpGet("scriptlink"))()
